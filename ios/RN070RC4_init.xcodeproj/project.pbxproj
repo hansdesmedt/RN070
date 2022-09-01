@@ -485,7 +485,9 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
+				CODE_SIGN_STYLE = Manual;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = ZYW2P98UJH;
 				ENABLE_BITCODE = NO;
 				INFOPLIST_FILE = RN070RC4_init/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -497,8 +499,9 @@
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.$(PRODUCT_NAME:rfc1034identifier)";
+				PRODUCT_BUNDLE_IDENTIFIER = mobi.inthepocket.proleague;
 				PRODUCT_NAME = RN070RC4_init;
+				PROVISIONING_PROFILE_SPECIFIER = "match Development mobi.inthepocket.proleague 1659948097";
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				SWIFT_VERSION = 5.0;
 				VERSIONING_SYSTEM = "apple-generic";
@@ -511,7 +514,9 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
+				CODE_SIGN_STYLE = Manual;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = ZYW2P98UJH;
 				INFOPLIST_FILE = RN070RC4_init/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -522,8 +527,9 @@
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.$(PRODUCT_NAME:rfc1034identifier)";
+				PRODUCT_BUNDLE_IDENTIFIER = mobi.inthepocket.proleague;
 				PRODUCT_NAME = RN070RC4_init;
+				PROVISIONING_PROFILE_SPECIFIER = "match Development mobi.inthepocket.proleague 1659948097";
 				SWIFT_VERSION = 5.0;
 				VERSIONING_SYSTEM = "apple-generic";
 			};

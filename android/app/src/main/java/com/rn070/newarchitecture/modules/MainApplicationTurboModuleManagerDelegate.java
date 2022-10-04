@@ -1,4 +1,4 @@
-package com.rn070rc4_init.newarchitecture.modules;
+package com.rn070.newarchitecture.modules;
 
 import com.facebook.jni.HybridData;
 import com.facebook.react.ReactPackage;
@@ -41,7 +41,7 @@ public class MainApplicationTurboModuleManagerDelegate
     if (!sIsSoLibraryLoaded) {
       // If you change the name of your application .so file in the Android.mk file,
       // make sure you update the name here as well.
-      SoLoader.loadLibrary("rn070rc4_init_appmodules");
+      SoLoader.loadLibrary("rn070_appmodules");
       sIsSoLibraryLoaded = true;
     }
   }

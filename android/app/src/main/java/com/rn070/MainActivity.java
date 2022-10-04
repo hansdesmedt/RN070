@@ -1,4 +1,4 @@
-package com.rn070rc4_init;
+package com.rn070;
 
 import com.facebook.react.ReactActivity;
 import com.facebook.react.ReactActivityDelegate;
@@ -12,7 +12,7 @@ public class MainActivity extends ReactActivity {
    */
   @Override
   protected String getMainComponentName() {
-    return "RN070RC4_init";
+    return "RN070";
   }
 
   /**

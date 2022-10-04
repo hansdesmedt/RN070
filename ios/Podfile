@@ -4,7 +4,7 @@ require_relative '../node_modules/@react-native-community/cli-platform-ios/nativ
 platform :ios, '12.4'
 install! 'cocoapods', :deterministic_uuids => false
 
-target 'RN070RC4_init' do
+target 'RN070' do
   config = use_native_modules!
 
   # Flags change depending on the env values.
@@ -26,7 +26,7 @@ target 'RN070RC4_init' do
     :app_path => "#{Pod::Config.instance.installation_root}/.."
   )
 
-  target 'RN070RC4_initTests' do
+  target 'RN070Tests' do
     inherit! :complete
     # Pods for testing
   end

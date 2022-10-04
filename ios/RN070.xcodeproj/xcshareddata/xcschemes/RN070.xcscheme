@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-               BuildableName = "RN070RC4_init.app"
-               BlueprintName = "RN070RC4_init"
-               ReferencedContainer = "container:RN070RC4_init.xcodeproj">
+               BuildableName = "RN070.app"
+               BlueprintName = "RN070"
+               ReferencedContainer = "container:RN070.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "00E356ED1AD99517003FC87E"
-               BuildableName = "RN070RC4_initTests.xctest"
-               BlueprintName = "RN070RC4_initTests"
-               ReferencedContainer = "container:RN070RC4_init.xcodeproj">
+               BuildableName = "RN070Tests.xctest"
+               BlueprintName = "RN070Tests"
+               ReferencedContainer = "container:RN070.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -55,9 +55,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "RN070RC4_init.app"
-            BlueprintName = "RN070RC4_init"
-            ReferencedContainer = "container:RN070RC4_init.xcodeproj">
+            BuildableName = "RN070.app"
+            BlueprintName = "RN070"
+            ReferencedContainer = "container:RN070.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -72,9 +72,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "RN070RC4_init.app"
-            BlueprintName = "RN070RC4_init"
-            ReferencedContainer = "container:RN070RC4_init.xcodeproj">
+            BuildableName = "RN070.app"
+            BlueprintName = "RN070"
+            ReferencedContainer = "container:RN070.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
